@@ -1,0 +1,5 @@
+art==5.2
+pystyle==1.0.2
+pyautogui==0.9.53
+pynput==1.7.3
+psutil==5.8.0
