@@ -1,6 +1,9 @@
 # Brawlhalla Coin Farmer Bot
 
 <p align="center">
+  <img src="./media/imagen_2023-05-15_021817517.png" />
+</p>
+<p align="center">
   <img src="./media/standard.gif" />
 </p>
 
