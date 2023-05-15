@@ -1,6 +1,8 @@
 # Brawlhalla Coin Farmer Bot
 
-![Brawlhalla Coin Farmer Bot](./media/standard.gif)
+<p align="center">
+  <img src="./media/standard.gif" />
+</p>
 
 Welcome to the Brawlhalla Coin Farmer Bot! This bot is designed to automate the process of coin farming in the popular fighting game, Brawlhalla. With this bot, you can effortlessly accumulate in-game wealth and unlock exciting items without the need for tedious grinding.
 
