@@ -8,11 +8,7 @@ Welcome to the Brawlhalla Coin Farmer Bot! This bot is designed to automate the 
 
 - Automated Coin Farming: The bot performs gameplay actions, completes missions, and participates in events on your behalf to optimize coin acquisition.
 
-- Customizable Strategies: The bot utilizes intelligent algorithms to adapt its farming strategies based on your preferences and gameplay style.
-
 - User-Friendly Interface: The bot is easy to set up and use, with a straightforward interface that allows you to monitor and control the farming process.
-
-- Safety and Compliance: The bot operates within the boundaries of the game's terms of service, ensuring a legitimate and risk-free coin farming experience.
 
 ## Prerequisites
 
@@ -26,15 +22,11 @@ Welcome to the Brawlhalla Coin Farmer Bot! This bot is designed to automate the 
 
 1. Clone this repository to your local machine or download the source code.
 
-2. Open the `config.cfg` file and provide the necessary configurations, such as your Discord webhook URL for notifications and any other preferences.
+2. Run the `main.py` script using Python 3: `python main.py`.
 
-3. Run the `coin_farmer_bot.py` script using Python 3: `python coin_farmer_bot.py`.
+4. Sit back, relax, and let the bot do the work. You can monitor the bot's progress and receive notifications through the console or Discord, depending on your configuration.
 
-4. The bot will automatically launch the Brawlhalla game, detect matches, add bots, choose a legend, and start farming coins.
-
-5. Sit back, relax, and let the bot do the work. You can monitor the bot's progress and receive notifications through the console or Discord, depending on your configuration.
-
-6. Enjoy the fruits of your automated coin farming as your in-game wealth grows!
+5. Enjoy the fruits of your automated coin farming as your in-game wealth grows!
 
 ## Important Notes
 
