@@ -1,4 +1,3 @@
-<pre>
 # Brawlhalla Coin Farmer Bot
 
 ![Brawlhalla Coin Farmer Bot](bot_image.jpg)
@@ -60,4 +59,3 @@ This project is not affiliated with or endorsed by Brawlhalla or its developers.
 ---
 
 Start farming coins effortlessly with the Brawlhalla Coin Farmer Bot. Unlock a world of in-game riches and enhance your gameplay experience. Happy farming!
-</pre>
